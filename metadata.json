@@ -1,0 +1,6 @@
+{
+  "name": "Smart-Lifecycle Planner",
+  "description": "An Elite Technical Project Manager assistant that breaks raw ideas into execution tasks with a visual timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
